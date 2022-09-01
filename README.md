@@ -9,7 +9,7 @@ I've been learning to code for a year now, after switching careers. I started wi
 * 🌍  I'm based in Coimbatore
 * 🖥️  See my portfolio at [https://aruneshwaran.netlify.app/](http://aruneshwaran.netlify.app/)
 * ✉️  You can contact me at [m.aruneshwar@gmail.com](mailto:m.aruneshwar@gmail.com)
-* 🧠  I'm learning Unit Testing
+* 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on Full Stack Projects and System Design
 
 ### Skills
